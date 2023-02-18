@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Luan-Maffra-de-Oliveira-s-workspace-hbs0vq.us-east-1.xata.sh/db/jqq",
+  "codegen": {
+    "output": "utils/xata.ts"
+  }
+}
